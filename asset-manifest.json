@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Educase-assessment/static/css/main.c95cf4ef.css",
+    "main.js": "/Educase-assessment/static/js/main.78025653.js",
+    "index.html": "/Educase-assessment/index.html",
+    "main.c95cf4ef.css.map": "/Educase-assessment/static/css/main.c95cf4ef.css.map",
+    "main.78025653.js.map": "/Educase-assessment/static/js/main.78025653.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c95cf4ef.css",
+    "static/js/main.78025653.js"
+  ]
+}
